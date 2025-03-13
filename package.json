@@ -1,6 +1,6 @@
 {
   "name": "@tanislav000/dbus-next",
-  "version": "0.10.5",
+  "version": "0.10.6",
   "keywords": [
     "dbus",
     "dcop",
@@ -43,7 +43,7 @@
     "xml2js": "^0.6.2"
   },
   "optionalDependencies": {
-    "usocket": "npm:@tanislav000/usocket@^1.0.5"
+    "usocket": "npm:@tanislav000/usocket@^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
