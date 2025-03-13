@@ -42,9 +42,6 @@
     "safe-buffer": "^5.1.1",
     "xml2js": "^0.6.2"
   },
-  "optionalDependencies": {
-    "usocket": "npm:@tanislav000/usocket@^1.0.6"
-  },
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/plugin-transform-class-properties": "^7.25.9",
